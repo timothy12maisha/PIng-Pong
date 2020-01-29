@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PingPongTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2020-01-24T07:40:19" hostname="DESKTOP-VS66IPJ" time="862.163">
+  <properties/>
+  <testcase name="runPingPong_countUpToOne_ArrayList" classname="PingPongTest" time="862.163">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
